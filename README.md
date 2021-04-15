@@ -196,6 +196,6 @@ If you find this work or code is helpful in your research, please cite:
     Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu, Mingkui Tan, Xinggang Wang, Wenyu Liu, Bin Xiao. Accepted by TPAMI.  [download](https://arxiv.org/pdf/1908.07919.pdf)
 
 ## Acknowledgement
-We adopt ~~sync-bn implemented by [InplaceABN](https://github.com/mapillary/inplace_abn).~~ the PyTorch official syncbn.
+We adopt(https://github.com/mapillary/inplace_abn).~~ the PyTorch official syncbn.
 
 We adopt data precosessing on the PASCAL-Context dataset, implemented by [PASCAL API](https://github.com/zhanghang1989/detail-api).
